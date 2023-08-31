@@ -1,0 +1,21 @@
+---
+title: "Week 6 Quiz"
+author: "Yitong and U7627351"
+date: "2023/9/1"
+output:  
+    html_document:
+        toc: true
+        toc_depth: 4
+        theme: cosmo
+        number_sections: false
+        toc_float: true
+        highlight: pygments
+        fig_width: 8
+        fig_height: 4
+---
+
+# Bonus section
+
+## Loading the data
+
+## An interesting plot
