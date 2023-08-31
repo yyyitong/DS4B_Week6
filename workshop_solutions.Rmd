@@ -1,6 +1,6 @@
 ---
 title: "Week 6 Quiz"
-author: "Yitong and U7627351"
+author: "Yitong Fu and U7627351"
 date: "2023/9/1"
 output:  
     html_document:
