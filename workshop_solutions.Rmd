@@ -28,10 +28,6 @@ data
 
 
 ## An interesting plot
-```{r}
-library(skimr)
-skim(data)
-```
 
 
 ```{r}
