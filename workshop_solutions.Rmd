@@ -17,5 +17,16 @@ output:
 # Bonus section
 
 ## Loading the data
+```{r}
+library(tidyverse)
+```
+
+```{r}
+data <- read.csv("raw_data/data.csv")
+data
+```
+
+
+
 
 ## An interesting plot
