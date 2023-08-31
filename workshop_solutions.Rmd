@@ -27,6 +27,17 @@ data
 ```
 
 
-
-
 ## An interesting plot
+```{r}
+library(skimr)
+skim(data)
+```
+
+
+```{r}
+ggplot(data,aes(x = TempC, y = VO2_ml_per_h)) +
+  geom_point()
+```
+
+
+
